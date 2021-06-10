@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+.userList{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 1500px;
+  height: 800 px;
+}
+.list{
+  background-color: rgb(187, 121, 121);
+  margin: 20px;
+  color: white;
+  margin-left: 70%;
+  width: 500px;
+  height: 250px;
+ 
+}
+.li{
+  float: left;
+}
+.pp{
+  margin-top: 10px;
+  margin-bottom:10px ;
+  font-weight: bolder;
+  color:rgb(139, 0, 93);
+  font-size: large;
+}
+.ppp{
+ 
+  color:black;
+
+}
+
